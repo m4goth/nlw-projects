@@ -1,5 +1,5 @@
 # nlw-projetos
-# um repositório onde vou pôr meus testes e aprendizados de códigos da semana NLW da Rocketseat
+# um repositório onde vou pôr meus testes e aprendizados de códigos da semana NLW - Rocketseat
 <br>
 # Mission Origin
 <br>
